@@ -4,6 +4,8 @@ Portable Windows 11 health checker: CPU, RAM, disk SMART, battery, temperatures,
 
 Original design: [SCHEMA.md](SCHEMA.md)
 
+![Laptop diagnostics kit in action](docs/kit-in-action.gif)
+
 ## Quick start
 
 1. Double-click **`Avvia-Diagnostica.bat`** or **`Run-Diagnostics.bat`**
