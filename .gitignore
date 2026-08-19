@@ -1,0 +1,9 @@
+reports/*
+!reports/.gitkeep
+tools/*
+!tools/.gitkeep
+*.zip
+*.exe
+!src/**
+.DS_Store
+Thumbs.db
